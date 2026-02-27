@@ -1,0 +1,5 @@
+dataset_name: City Streets Data (2011)
+local_raw_file: ./city_streets_project\data_raw\city_streets_2011.csv
+acquisition_date: 2026-01-31
+source: data.syr.gov (manual download)
+api_endpoint: None
