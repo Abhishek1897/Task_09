@@ -230,11 +230,6 @@ city_streets_project/
 
 This project is ready for submission and demonstration.
 
----
 
-# Contact
 
-Abhishek Shinde  
-Applied Data Science  
-Syracuse University  
 
